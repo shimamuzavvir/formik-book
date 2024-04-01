@@ -1,0 +1,35 @@
+/* Custom CSS for Create component */
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: auto;
+    background-color: rgb(133, 177, 175);
+    h3{
+        margin-top: 10px;
+        padding: 20px;
+        color: brown;
+    }
+  }
+  
+  .form-box-container {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px ;
+    width: 400px;
+    background-color: rgb(185, 185, 222);
+  }
+  
+  /* Input form adjustments */
+  .form-control {
+    width: 100%;
+
+  }
+  
+  /* Center button */
+  #btn-div {
+    text-align: center;
+  }
+  
